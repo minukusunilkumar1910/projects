@@ -26,6 +26,7 @@ header{
    border-radius: 10px;
    border: 0;
    cursor: pointer;
+
 }
 .button:hover{
  color: rgb(227, 227, 231);  
