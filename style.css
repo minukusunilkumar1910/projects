@@ -93,5 +93,6 @@ footer{
 .fixed:hover{
    color: aliceblue;
    opacity: 0.2px;
+
    background-color: rgb(10, 10, 14);
 }
